@@ -20,7 +20,7 @@ Simsalabim
 
 
 
-Simsalabim is a collection of my custom utilitiesin python.
+Simsalabim is a collection of my custom utilities in python.
 
 
 * Free software: MIT license
