@@ -22,8 +22,6 @@ import sys
 sys.path.insert(0, os.path.abspath('..'))
 
 import simsalabim
-import decibel
-import excel_loader
 import sphinx_rtd_theme
 
 # -- General configuration ---------------------------------------------
