@@ -1,6 +1,6 @@
 """
 Decibel
-=====
+=======
 
 Provides
   1. Basic calculations with levels.
@@ -13,7 +13,7 @@ def dbsum(levels, axis=None):
     """Summation of levels.
 
     Parameters
-    ---------
+    ----------
 
     Notes
     -----

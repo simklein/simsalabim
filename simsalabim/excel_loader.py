@@ -1,6 +1,6 @@
 """
 Excel Loader
-=====
+============
 
 Provides
   1. IO stuff to access data from messy spreadsheets.
