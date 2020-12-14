@@ -13,4 +13,4 @@ pytest-runner==5.1
 matplotlib
 numpy
 pandas
-openxlpy
+openpyxl
