@@ -15,7 +15,7 @@ requirements = [
     'numpy',
     'matplotlib',
     'pandas',
-    'openexlpy'
+    'openpyxl'
 ]
 
 setup_requirements = ['pytest-runner', ]
