@@ -3,3 +3,6 @@
 __author__ = """Simon Klein"""
 __email__ = 'simon.klein1@rwth-aachen.de'
 __version__ = '0.1.0'
+
+from . import decibel
+from . import excel_loader
