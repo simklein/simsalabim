@@ -14,10 +14,6 @@ Simsalabim
         :alt: Documentation Status
 
 
-.. image:: https://pyup.io/repos/github/simklein/simsalabim/shield.svg
-     :target: https://pyup.io/repos/github/simklein/simsalabim/
-     :alt: Updates
-
 
 
 Simsalabim is a collection of my custom utilities in python.
