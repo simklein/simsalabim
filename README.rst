@@ -2,10 +2,6 @@
 Simsalabim
 ==========
 
-
-# .. image:: https://img.shields.io/pypi/v/simsalabim.svg
-#        :target: https://pypi.python.org/pypi/simsalabim
-
 .. image:: https://img.shields.io/travis/simklein/simsalabim.svg
         :target: https://travis-ci.com/simklein/simsalabim
 
