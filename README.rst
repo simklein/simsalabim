@@ -26,6 +26,12 @@ Features
 * Data transformations from Excel sheets
 * TODO
 
+Get started
+-----------
+Install as local package to your environment:: 
+
+    python -m pip install -e c:/mydir/mypackage 
+
 Credits
 -------
 
