@@ -29,10 +29,17 @@ def load_xl_range(io, sheet_name=0, start=None, stop=None):
     --------
     openpyxl.load_workbook() : Open the given filename and return the workbook.
     """
-
+    # Load sheet of workbook
     wb = load_workbook(filename=io, read_only=True)
+    sheets = wb.sheetnames
 
-    ws = wb[sheet_name]
+    if sheet_name in sheets:
+        ws = wb[sheet_name]
+    else:
+        try:
+            ws = wb[sheets[sheet_name]]
+        except:
+            print("sheet_name {} not found in Workbook!".format(sheet_name))
 
     # Read the cell values into a list of lists
     data_rows = []
