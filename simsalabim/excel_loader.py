@@ -39,7 +39,7 @@ def load_xl_range(io, sheet_name=0, start=None, stop=None):
         try:
             ws = wb[sheets[sheet_name]]
         except:
-            print("sheet_name {} not found in Workbook!".format(sheet_name))
+            raise ValueError( "sheet_name '{}' not existing in Workbook!".format(sheet_name) )
 
     # Read the cell values into a list of lists
     data_rows = []
