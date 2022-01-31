@@ -6,7 +6,7 @@ import pytest
 
 from click.testing import CliRunner
 
-from simsalabim import simsalabim
+# from simsalabim import simsalabim
 from simsalabim import cli
 
 
