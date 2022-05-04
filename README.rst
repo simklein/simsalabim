@@ -23,7 +23,7 @@ Features
 --------
 
 * Decibel calculations
-* Data transformations from Excel sheets
+* Data transformations from messy Excel sheets
 * TODO
 
 Get started
