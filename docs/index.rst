@@ -1,13 +1,22 @@
 Welcome to Simsalabim's documentation!
 ======================================
 
+Getting Started
+===============
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    readme
    installation
    usage
+
+Documentation
+=============
+
+.. toctree::
+   :maxdepth: 4
+
    modules
    contributing
    authors
