@@ -4,4 +4,4 @@ Usage
 
 To use Simsalabim in a project::
 
-    import simsalabim
+    import simsalabim as sim

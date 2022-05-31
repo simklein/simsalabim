@@ -37,7 +37,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
     ],
-    description="Simsalabim is a collection of my custom utilitiesin python.",
+    description="Simsalabim is a collection of my custom utilities in python.",
     entry_points={
         'console_scripts': [
             'simsalabim=simsalabim.cli:main',

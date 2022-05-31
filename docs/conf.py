@@ -52,8 +52,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Simsalabim'
-copyright = "2020, Simon Klein"
+project = 'simsalabim'
+copyright = "2022, Simon Klein"
 author = "Simon Klein"
 
 # The version info for the project you're documenting, acts as replacement

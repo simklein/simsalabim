@@ -1,3 +1,12 @@
+"""
+SNR
+=======
+
+Provides
+  1. WADA (Waveform Amplitude Distribution Analysis) SNR calculation.
+
+"""
+
 import numpy as np
 
 def wada_snr(wav):
