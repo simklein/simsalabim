@@ -1,6 +1,16 @@
 simsalabim package
 ==================
 
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   simsalabim.classes
+   simsalabim.dsp
+   simsalabim.io
+
 Submodules
 ----------
 
@@ -11,31 +21,6 @@ simsalabim.cli module
    :members:
    :undoc-members:
    :show-inheritance:
-
-simsalabim.decibel module
--------------------------
-
-.. automodule:: simsalabim.decibel
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-simsalabim.excel\_loader module
--------------------------------
-
-.. automodule:: simsalabim.excel_loader
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-simsalabim.simsalabim module
-----------------------------
-
-.. automodule:: simsalabim.simsalabim
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 
 Module contents
 ---------------
