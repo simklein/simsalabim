@@ -20,20 +20,18 @@ Simsalabim is a collection of my custom utilities in python.
 
 
 Features
---------
+========
 
 * Decibel calculations
-* Data transformations from messy Excel sheets
+* Data transformations from Excel sheets
 * TODO
 
-Get started
------------
-Install as local package to your environment:: 
-
-    python -m pip install -e c:/mydir/mypackage 
+Get Started
+===========
+python -m pip install -e c:/mydir/mypackage
 
 Credits
--------
+=======
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
