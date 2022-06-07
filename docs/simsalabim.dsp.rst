@@ -1,8 +1,13 @@
-simsalabim.dsp package
-======================
+Digital signal processing
+=========================
 
-Submodules
-----------
+Module contents
+---------------
+
+.. automodule:: simsalabim.dsp
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 simsalabim.dsp.decibel module
 -----------------------------
@@ -20,10 +25,4 @@ simsalabim.dsp.snr module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
 
-.. automodule:: simsalabim.dsp
-   :members:
-   :undoc-members:
-   :show-inheritance:
