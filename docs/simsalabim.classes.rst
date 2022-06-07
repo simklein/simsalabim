@@ -10,7 +10,7 @@ Module contents
    :show-inheritance:
 
 Classes
----------------------------------
+-------
 
 .. automodule:: simsalabim.classes.classes
    :members:
