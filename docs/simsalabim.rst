@@ -1,5 +1,5 @@
-simsalabim package
-==================
+Simsalabim
+==========
 
 Subpackages
 -----------
@@ -13,9 +13,6 @@ Subpackages
 
 Submodules
 ----------
-
-simsalabim.cli module
----------------------
 
 .. automodule:: simsalabim.cli
    :members:
