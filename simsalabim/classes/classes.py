@@ -1,3 +1,11 @@
+r"""
+Classes
+=======
+
+The main class is
+:py:obj:`simsalabim.classes.classes.Signal`.
+"""
+
 import numpy as np
 
 

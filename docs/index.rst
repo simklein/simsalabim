@@ -1,7 +1,4 @@
-Welcome to Simsalabim's documentation!
-======================================
-
-readme
+.. include:: ../README.rst
 
 .. toctree::
    :maxdepth: 2

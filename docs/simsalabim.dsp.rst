@@ -9,16 +9,13 @@ Module contents
    :undoc-members:
    :show-inheritance:
 
-simsalabim.dsp.decibel module
+Utilities
 -----------------------------
 
 .. automodule:: simsalabim.dsp.decibel
    :members:
    :undoc-members:
    :show-inheritance:
-
-simsalabim.dsp.snr module
--------------------------
 
 .. automodule:: simsalabim.dsp.snr
    :members:

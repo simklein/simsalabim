@@ -1,16 +1,5 @@
-simsalabim.io package
-=====================
-
-Submodules
-----------
-
-simsalabim.io.excel\_loader module
-----------------------------------
-
-.. automodule:: simsalabim.io.excel_loader
-   :members:
-   :undoc-members:
-   :show-inheritance:
+Data IO
+=======
 
 Module contents
 ---------------
@@ -19,3 +8,13 @@ Module contents
    :members:
    :undoc-members:
    :show-inheritance:
+
+Utilities
+----------------------------------
+
+.. automodule:: simsalabim.io.excel_loader
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+

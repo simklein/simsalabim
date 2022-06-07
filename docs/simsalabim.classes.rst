@@ -1,5 +1,5 @@
 Classes
-==========================
+=======
 
 Module contents
 ---------------
@@ -9,7 +9,7 @@ Module contents
    :undoc-members:
    :show-inheritance:
 
-simsalabim.classes.classes module
+Classes
 ---------------------------------
 
 .. automodule:: simsalabim.classes.classes
