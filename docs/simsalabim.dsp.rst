@@ -9,8 +9,17 @@ Module contents
    :undoc-members:
    :show-inheritance:
 
+Classes
+-------
+
+.. automodule:: simsalabim.dsp.classes
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
 Utilities
------------------------------
+---------
 
 .. automodule:: simsalabim.dsp.decibel
    :members:
