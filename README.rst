@@ -10,9 +10,8 @@ Simsalabim
         :alt: Documentation Status
 
 
-
-
-Simsalabim is a collection of my custom utilities in python.
+Simsalabim is a collection of my custom utilities in python
+concerning tasks in digital signal processing and basic data wrangling.        
 
 
 * Free software: MIT license
@@ -22,13 +21,27 @@ Simsalabim is a collection of my custom utilities in python.
 Features
 ========
 
-* Decibel calculations
+* Digital signal processing
+    * Decibel calculations
+    * Evaluation of Speech Enhancement Algorithms   
 * Data transformations from Excel sheets
-* TODO
+
 
 Get Started
 ===========
-python -m pip install -e c:/mydir/mypackage
+
+Create a local copy of the package by cloning the repository:
+
+.. code-block:: console
+
+    $ git clone git://github.com/simklein/simsalabim
+
+
+Install the local package to your environment:
+
+.. code-block:: console
+
+    $ python -m pip install -e c:/mydir/simsalabim
 
 Credits
 =======

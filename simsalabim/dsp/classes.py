@@ -3,7 +3,7 @@ Classes
 =======
 
 The main class is
-:py:obj:`simsalabim.classes.classes.Signal`.
+:py:obj:`simsalabim.dsp.classes.Signal`.
 """
 
 import numpy as np
@@ -14,6 +14,7 @@ class Signal:
     Objects of this class contain data which is directly convertable between
     time and frequency domain (equally spaced samples and frequency bins).
     """
+    
     def __init__(
             self,
             data,

@@ -42,7 +42,7 @@ def dbmean(levels, axis=None):
 
 
 def dbsub(a, b):
-    """Energitally subtract level b from level a.
+    """Energetically subtract level b from level a.
 
     Parameters
     ----------

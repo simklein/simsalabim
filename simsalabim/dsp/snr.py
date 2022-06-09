@@ -10,6 +10,25 @@ Provides
 import numpy as np
 
 def wada_snr(wav):
+    """Direct blind estimation of the SNR of a speech signal.
+
+    Parameters
+    ----------
+    wav : str
+        Filename of the wav file.
+
+    See also
+    -----
+    https://gist.github.com/johnmeade/d8d2c67b87cda95cd253f55c21387e75
+
+    References
+    ----------
+    .. [#] Kim, Chanwoo, and Richard M. Stern. "Robust signal-to-noise ratio
+           estimation based on waveform amplitude distribution analysis."
+           Ninth Annual Conference of the International Speech Communication
+           Association. 2008.
+    """
+
     # Direct blind estimation of the SNR of a speech signal.
     #
     # Paper on WADA SNR:
