@@ -12,7 +12,6 @@ from nptdms import TdmsFile
 from pathlib import Path
 
 
-
 def load_xl_range(io, sheet_name=0, start=None, stop=None):
     """Load data from a certain range of an Excel sheet
     and transforms it to an dataframe.
@@ -60,8 +59,6 @@ def load_xl_range(io, sheet_name=0, start=None, stop=None):
 def read_tdms_as_dict(path):
     """Create a dictionary from a LabVIEW TDMS file.
     
-
-
     Parameters
     ----------
     path : str
