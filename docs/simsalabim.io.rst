@@ -12,7 +12,7 @@ Module contents
 Utilities
 ----------------------------------
 
-.. automodule:: simsalabim.io.excel_loader
+.. automodule:: simsalabim.io.data_import_loader
    :members:
    :undoc-members:
    :show-inheritance:

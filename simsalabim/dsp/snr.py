@@ -20,7 +20,7 @@ def wada_snr(wav):
     Notes
     -----
     The function was adapted from public `Matlab code <https://labrosa.ee.columbia.edu/projects/snreval/#9>`_ 
-    by John Meade and can be found in this `gist <https://gist.github.com/johnmeade/d8d2c67b87cda95cd253f55c21387e75>`_
+    by John Meade and can be found in this `gist <https://gist.github.com/johnmeade/d8d2c67b87cda95cd253f55c21387e75>`_.
     
     References
     ----------
